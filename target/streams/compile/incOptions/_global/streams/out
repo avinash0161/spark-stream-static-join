@@ -1,0 +1,13 @@
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = /home/avinash/Downloads/Stream-Static-Join/target/scala-2.12/classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mRegistering generated classes:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StreamJoin$Customer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StreamJoin$Customer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StreamJoin$Sales$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StreamJoin$$typecreator4$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StreamJoin$Sales.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StreamJoin$$typecreator17$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StreamJoin.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StreamJoin$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: /home/avinash/Downloads/Stream-Static-Join/target/scala-2.12/classes.bak[0m

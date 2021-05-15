@@ -1,0 +1,21 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/avinash/Downloads/Stream-Static-Join/target/scala-2.12/stream-static-join_2.12-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StreamJoin$Sales.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/avinash/Downloads/Stream-Static-Join/target/scala-2.12/classes/StreamJoin$Sales.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StreamJoin$$typecreator17$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/avinash/Downloads/Stream-Static-Join/target/scala-2.12/classes/StreamJoin$$typecreator17$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StreamJoin$$typecreator4$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/avinash/Downloads/Stream-Static-Join/target/scala-2.12/classes/StreamJoin$$typecreator4$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StreamJoin.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/avinash/Downloads/Stream-Static-Join/target/scala-2.12/classes/StreamJoin.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StreamJoin$Sales$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/avinash/Downloads/Stream-Static-Join/target/scala-2.12/classes/StreamJoin$Sales$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StreamJoin$Customer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/avinash/Downloads/Stream-Static-Join/target/scala-2.12/classes/StreamJoin$Customer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StreamJoin$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/avinash/Downloads/Stream-Static-Join/target/scala-2.12/classes/StreamJoin$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	customers.csv[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/avinash/Downloads/Stream-Static-Join/target/scala-2.12/classes/customers.csv[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StreamJoin$Customer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/avinash/Downloads/Stream-Static-Join/target/scala-2.12/classes/StreamJoin$Customer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
